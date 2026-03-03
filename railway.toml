@@ -2,5 +2,5 @@
 builder = "NIXPACKS"
 
 [deploy]
-cronSchedule = "0 9 * * *"
+cronSchedule = "0 12 * * *"
 startCommand = "python flight_tracker.py"
